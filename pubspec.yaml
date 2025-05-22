@@ -9,8 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  decorated_flutter: 0.46.15
-  flutter_syntax_view: ^4.0.0
+  # decorated_flutter: 0.46.15
+  decorated_flutter: ^0.50.4
+  flutter_syntax_view: ^4.1.7
 
 dev_dependencies:
   flutter_test:
